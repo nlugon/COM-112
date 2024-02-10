@@ -3,7 +3,7 @@ First year C++ object-oriented coding project at EPFL
 
 Course info : [COM-112 Programmation orientee projet - EPFL](https://edu.epfl.ch/studyplan/fr/propedeutique/microtechnique/coursebook/programmation-orientee-projet-COM-112-A)
 
-Other collaborator : Chansol Park
+Collaborator : Chansol Park
 
 The goal of this project is to develop a tool for creating and editing a city by placing different types of neighborhoods in 2D space.
 
